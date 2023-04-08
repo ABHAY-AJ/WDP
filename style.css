@@ -156,3 +156,7 @@ header{
         width: unset;
     }
 }
+
+#video{
+    width: 380px;
+}
